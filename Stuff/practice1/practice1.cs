@@ -111,7 +111,7 @@ namespace ConsoleApp4
                     goto kisaSinav1;
                     break;
                 default:
-                    Console.WriteLine("Maalesef, sadece 1, 2 veya 3 numarayı seçebilirsiniz. Bi daha deneyin\n\n");
+                    Console.WriteLine("Sorry you just can input 1,2 or 3. Try again\n\n");
                     goto kisaSinav1;
                     break;
             }

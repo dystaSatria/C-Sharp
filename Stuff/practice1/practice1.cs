@@ -85,7 +85,7 @@ namespace ConsoleApp4
             Console.WriteLine("Choose your operation below :");
             Console.WriteLine("(1) Array Element Increment");
             Console.WriteLine("(2) Polinom Control");
-            Console.WriteLine("Soru (3)");
+            Console.WriteLine("(3) Calculate the last word");
 
             string input = Console.ReadLine();
             Console.WriteLine(" ");

@@ -108,7 +108,7 @@ namespace ConsoleApp4
                     string nama = Console.ReadLine();
                     Program coba = new Program();
                     Console.WriteLine("Son kelime " + coba.sonKelime(nama) + " tane var.\n");
-                    goto kisaSinav1;
+                    goto playAgain;
                     break;
                 default:
                     Console.WriteLine("Sorry you just can input 1,2 or 3. Try again\n\n");

@@ -112,7 +112,7 @@ namespace ConsoleApp4
                     break;
                 default:
                     Console.WriteLine("Sorry you just can input 1,2 or 3. Try again\n\n");
-                    goto kisaSinav1;
+                    goto playAgain;
                     break;
             }
             

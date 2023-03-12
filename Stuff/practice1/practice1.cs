@@ -12,7 +12,7 @@ namespace ConsoleApp4
             Console.WriteLine("Enter the number of array elements:");
             eleman = Convert.ToInt32(Console.ReadLine());
             int[] A = new int[eleman];
-            Console.WriteLine("Dizi eleman sayisini giriniz");
+            Console.WriteLine("Enter the number of array elements: ");
 
             for (int i = 0; i < eleman; i++)
             {

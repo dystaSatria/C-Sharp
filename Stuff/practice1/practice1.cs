@@ -101,7 +101,7 @@ namespace ConsoleApp4
                     Console.WriteLine("2. Polinom Kontrol Etmek\n");
                     polinomKontrol();
                     Console.WriteLine(" \n\n\n");
-                    goto kisaSinav1;
+                    goto playAgain;
                     break;
                 case "3":
                     Console.WriteLine("3. Son Kelime hesaplamak\n\nBi Kelime ya da bi string karakterle giriniz :");

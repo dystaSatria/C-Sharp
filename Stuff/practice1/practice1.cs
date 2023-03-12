@@ -95,7 +95,7 @@ namespace ConsoleApp4
                 case "1":
                     Console.WriteLine("1. Dizi Eleman Artirma\n");
                     diziSonArtma();
-                    goto kisaSinav1;
+                    goto playAgain;
                     break;
                 case "2":
                     Console.WriteLine("2. Polinom Kontrol Etmek\n");

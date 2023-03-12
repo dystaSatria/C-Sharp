@@ -81,7 +81,7 @@ namespace ConsoleApp4
         static void Main(string[] args)
         {
 
-            kisaSinav1:
+            playAgain:
             Console.WriteLine("Choose your operation below :");
             Console.WriteLine("(1) Array Element Increment");
             Console.WriteLine("(2) Polinom Control");

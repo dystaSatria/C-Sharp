@@ -82,9 +82,9 @@ namespace ConsoleApp4
         {
 
             kisaSinav1:
-            Console.WriteLine("1,2,3 islemler arasindaki seciniz :");
-            Console.WriteLine("Soru (1)");
-            Console.WriteLine("Soru (2)");
+            Console.WriteLine("Choose your operation below :");
+            Console.WriteLine("(1) Array Element Increment");
+            Console.WriteLine("(2) Polinom Control");
             Console.WriteLine("Soru (3)");
 
             string input = Console.ReadLine();

@@ -9,7 +9,7 @@ namespace ConsoleApp4
         {
 
             int eleman;
-            Console.WriteLine("Dizi elemanlari kac olacagini giriniz:");
+            Console.WriteLine("Enter the number of array elements:");
             eleman = Convert.ToInt32(Console.ReadLine());
             int[] A = new int[eleman];
             Console.WriteLine("Dizi eleman sayisini giriniz");

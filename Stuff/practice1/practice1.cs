@@ -43,11 +43,11 @@ namespace ConsoleApp4
             }
             if (temp == sum)
             {
-                Console.Write("Bu sayi Palindrom"); 
+                Console.Write("This number is Palindrom"); 
             }
             else 
             { 
-                Console.Write("Maalesef bu Palindrom degil");
+                Console.Write("This number is not Palindrom");
             }
             return 0;
             
